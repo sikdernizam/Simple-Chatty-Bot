@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a339a6b-e1ec-4494-a016-14c3238cff09" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand />
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Simple Chatty Bot/task" />
+  </component>
+  <component name="ProjectId" id="1aaMx6bSeQoRWnsMGAUTgm4xjfl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chapter04/Example03" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.SimpleBot">
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Chatty_Bot.Problems-Raise_to_the_power.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Chatty_Bot.Problems-The__un_-ordered_sequence.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Chatty_Bot.Problems-Integer_part_of_a_number.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Simple_Chatty_Bot.Problems-Vowel_or_not.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleBot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="bot.SimpleBot" />
+      <module name="Simple_Chatty_Bot.Simple_Chatty_Bot-task.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="bot.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SimpleBot" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.Main (5)" />
+        <item itemvalue="Application.Main (4)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a339a6b-e1ec-4494-a016-14c3238cff09" name="Default Changelist" comment="" />
+      <created>1586969510441</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586969510441</updated>
+      <workItem from="1586969608681" duration="983000" />
+      <workItem from="1586972480071" duration="3993000" />
+      <workItem from="1587017149918" duration="13701000" />
+      <workItem from="1587035048811" duration="2482000" />
+      <workItem from="1587039010887" duration="10339000" />
+      <workItem from="1587223902597" duration="10624000" />
+      <workItem from="1587268971893" duration="8850000" />
+      <workItem from="1587290115374" duration="1576000" />
+      <workItem from="1587305457150" duration="791000" />
+      <workItem from="1587389943104" duration="6318000" />
+      <workItem from="1587802395153" duration="9106000" />
+      <workItem from="1587845244897" duration="3891000" />
+      <workItem from="1588002632663" duration="495000" />
+      <workItem from="1588334516334" duration="1500000" />
+      <workItem from="1588446793660" duration="7242000" />
+      <workItem from="1588705017562" duration="107000" />
+      <workItem from="1588779207760" duration="13448000" />
+      <workItem from="1588794526422" duration="293000" />
+      <workItem from="1588795238291" duration="4200000" />
+      <workItem from="1588832299112" duration="1473000" />
+      <workItem from="1588849248233" duration="4961000" />
+      <workItem from="1588861594859" duration="882000" />
+      <workItem from="1588950583206" duration="1546000" />
+      <workItem from="1588965199923" duration="5557000" />
+      <workItem from="1589018117076" duration="3245000" />
+      <workItem from="1589185245500" duration="4173000" />
+      <workItem from="1589228616381" duration="5045000" />
+      <workItem from="1589276812234" duration="385000" />
+      <workItem from="1589277307132" duration="7647000" />
+      <workItem from="1589295428216" duration="3840000" />
+      <workItem from="1589300130110" duration="4615000" />
+      <workItem from="1589395616893" duration="4146000" />
+      <workItem from="1589400120768" duration="3339000" />
+      <workItem from="1589437818882" duration="276000" />
+      <workItem from="1589449561428" duration="17045000" />
+      <workItem from="1589620229541" duration="13263000" />
+      <workItem from="1589730996587" duration="2999000" />
+      <workItem from="1589738339755" duration="6232000" />
+      <workItem from="1589881681062" duration="1060000" />
+      <workItem from="1589902369096" duration="1223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
